@@ -3,7 +3,7 @@ center application track
 Quick Started
  1、将分支mvn-repo下的jar包复制到本机maven仓库，cat一些依赖的jar存放于mvn-repo分支
 
- 1、git clone https://github.com/dianping/cat.git
+ 1、git clone https://github.com/henanren/cat.git
  2、cd cat
  3、git checkout mvn-repo
  4、cp -R * ~/.m2/repository
